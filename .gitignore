@@ -1,0 +1,18 @@
+# Muhammad Nabil Rahmatullah - 2409106046
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File log / backup hasil eksekusi
+*.log
+*.bak
+backup/
+
+# Kredensial lokal
+.env
